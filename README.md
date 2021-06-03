@@ -17,7 +17,11 @@ You can edit/add commands in config. Format them like this:
 
 Exclusively code commands in this format, never forget to add a ',' to every line excluding the bottom one!
 
-```{
+```
+{
   "command": "response with spaces",
   "next command": "response with spaces and hex codes for custom coloring"
 }
+```
+
+Exclusively code commands in this format, never forget to add a ',' to every line excluding the bottom one!
